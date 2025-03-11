@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Ethan, a Computer Science student in France, passionate about Algorithm.
+### I'm Ethan, a Computer Science student in France with a strong passion for algorithms and problem-solving. I enjoy exploring complex computational challenges and continuously improving my coding skills.
 
 - 🔭 I’m studying to be a programmer.
 
