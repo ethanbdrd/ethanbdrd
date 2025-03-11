@@ -1,6 +1,6 @@
 ## Hi there 👋
-<h1 align="center">I'm Ethan</h1>
-<h3 align="center">A Computer Science student in France, passionate about Algorithm.</h3>
+
+### I'm Ethan, a Computer Science student in France, passionate about Algorithm.
 
 - 🔭 I’m studying to be a programmer.
 
