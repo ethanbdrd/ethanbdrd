@@ -2,11 +2,11 @@
 
 ### I'm Ethan, a Computer Science student in France with a strong passion for algorithms and problem-solving. I enjoy exploring complex computational challenges and continuously improving my coding skills.
 
-- 🔭 I’m studying to be a programmer.
+- 🔭 I’m studying to be a **programmer**.
 
 - 🌱 I’m currently learning **MANY languages**
 
-- 💪 I am actively involved in sports.
+- 💪 I am actively involved in **sports**.
 
 
 <h3 align="left">Skills:</h3>
