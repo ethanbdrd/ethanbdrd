@@ -23,7 +23,7 @@
 
 I'm a double-master's student in Montpellier: **Software Engineering** at the Faculté des Sciences, and **Management of Technology & Science (MTS)** at IAE Montpellier.
 
-I build SaaS products on my own, end to end — database schema, API, front-end, deployment, billing. No handoff, no team to hide behind. Right now I'm shipping **Tampyo**, a loyalty-card platform for local merchants.
+I build products on my own, end to end — database schema, API, front-end, automation, deployment. No handoff, no team to hide behind. Right now I'm shipping **Tampyo**, a loyalty-card platform for local merchants.
 
 I treat AI as part of the product rather than something to strip out before shipping. Heading toward software architect & engineer.
 
@@ -61,6 +61,7 @@ I treat AI as part of the product rather than something to strip out before ship
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-30363D?style=flat-square&logo=githubactions&logoColor=white">
   <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-30363D?style=flat-square&logo=turborepo&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-30363D?style=flat-square&logo=vercel&logoColor=white">
@@ -74,26 +75,17 @@ I treat AI as part of the product rather than something to strip out before ship
 Loyalty-card SaaS for local merchants: Apple Wallet & Google Wallet passes, merchant dashboard, cashier scanning app, push updates, GDPR-compliant. Built solo across a Turborepo monorepo.<br>
 <sub>`TypeScript` `Fastify` `Next.js` `PostgreSQL` `Prisma` `Supabase`</sub>
 
-**[HexGame](https://github.com/0xnohan/HexGame)**<br>
-Real-time multiplayer game on a hexagonal board — connection handling, in-game chat and live state sync over WebSockets.<br>
-<sub>`Node.js` `Express` `Socket.IO` `D3.js`</sub>
+**[Sol Trader](https://github.com/ethanbdrd/SolTrader)**<br>
+On-chain analysis engine for Solana. It aggregates blockchain signals into a read on the market, scores long/short setups for leveraged entries, and pushes alerts straight to Telegram. Runs on a GitHub Actions schedule — no server, no infrastructure bill.<br>
+<sub>`Python` `Solana` `Telegram Bot API` `GitHub Actions`</sub>
 
-**[AlgorithmsBook](https://github.com/ethanbdrd/AlgorithmsBook)**<br>
-Classic algorithms implemented from scratch in Python. My working reference on data structures and complexity.<br>
-<sub>`Python`</sub>
+**[Pipeline Clips](https://github.com/ethanbdrd/PipelineClips)**<br>
+End-to-end short-form video pipeline: it sources videos, reframes them to vertical, burns in subtitles, and publishes to YouTube Shorts automatically. A second mode generates original shorts from scratch and posts them on the same schedule.<br>
+<sub>`Python` `FFmpeg` `YouTube Data API`</sub>
 
-<details>
-<summary>More projects</summary>
-
-<br>
-
-**[OptiMot](https://github.com/0xnohan/OptiMot)** — TV game shows rebuilt as a multiplayer web app, with dictionary APIs and real-time rounds.<br>
+**[OptiMot](https://github.com/0xnohan/OptiMot)**<br>
+TV game shows rebuilt as a real-time multiplayer web app, with dictionary APIs and live rounds. University project, built as a team.<br>
 <sub>`Python` `Flask` `Socket.IO`</sub>
-
-**[BioPythonProjet](https://github.com/ethanbdrd/BioPythonProjet)** — genome sequence analysis on FASTA and GenBank files: retrieval, parsing and comparison.<br>
-<sub>`Python` `Biopython`</sub>
-
-</details>
 
 ## Stats
 
@@ -113,7 +105,7 @@ Classic algorithms implemented from scratch in Python. My working reference on d
 
 ## Contact
 
-Open to **freelance work and collaborations**, mainly full-stack SaaS. Fastest way to reach me is GitHub for now.
+Open to **freelance work and collaborations**, mainly full-stack SaaS and automation. Fastest way to reach me is GitHub for now.
 
 <p>
   <a href="https://github.com/ethanbdrd"><img alt="Ethan Baudrand on GitHub" src="https://img.shields.io/badge/GitHub-ethanbdrd-30363D?style=flat-square&logo=github&logoColor=white"></a>
@@ -132,6 +124,8 @@ Open to **freelance work and collaborations**, mainly full-stack SaaS. Fastest w
 <a href="https://x.com/TON-PSEUDO"><img alt="Ethan Baudrand on X" src="https://img.shields.io/badge/X-@TON--PSEUDO-30363D?style=flat-square&logo=x&logoColor=white"></a>
 <a href="mailto:TON-MAIL@exemple.com"><img alt="Email Ethan Baudrand" src="https://img.shields.io/badge/Email-me-30363D?style=flat-square&logo=gmail&logoColor=white"></a>
 
+     SI PIPELINE CLIPS EST PRIVÉ — remplace la ligne titre du projet par :
+**Pipeline Clips** — *private*
 ============================================================ -->
 
 <details>
@@ -141,7 +135,7 @@ Open to **freelance work and collaborations**, mainly full-stack SaaS. Fastest w
 
 Étudiant en double master à Montpellier : **Génie Logiciel** (Faculté des Sciences) et **Management des Technologies et des Sciences** (IAE Montpellier).
 
-Je conçois, développe et déploie des SaaS de bout en bout, seul : schéma de base de données, API, interface, déploiement, facturation. Je construis actuellement **Stampl**, une plateforme de cartes de fidélité pour commerçants locaux.
+Je conçois, développe et déploie mes produits de bout en bout, seul : schéma de base de données, API, interface, automatisation, déploiement. Je construis actuellement **Tampyo**, une plateforme de cartes de fidélité pour commerçants locaux.
 
 L'IA fait partie intégrante des produits que je construis — je l'intègre là où elle apporte de la valeur plutôt que de la retirer avant la mise en production. Objectif : software architect & engineer.
 
