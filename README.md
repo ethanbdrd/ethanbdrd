@@ -2,7 +2,7 @@
 
   <h1>Ethan Baudrand</h1>
 
-  <p><strong>I design, build and ship SaaS end to end — alone, from schema to production.</strong></p>
+  <p><strong>A student who design, build and ship SaaS end to end — alone, from schema to production.</strong></p>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3000&pause=1200&color=E6EDF3&center=true&vCenter=true&width=560&height=40&lines=I+design%2C+build+and+ship+SaaS+end+to+end;AI+built+into+the+product%2C+not+bolted+on">
