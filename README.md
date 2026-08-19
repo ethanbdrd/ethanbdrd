@@ -23,7 +23,7 @@
 
 I'm a double-master's student in Montpellier: **Software Engineering** at the Faculté des Sciences, and **Management of Technology & Science (MTS)** at IAE Montpellier.
 
-I build SaaS products on my own, end to end — database schema, API, front-end, deployment, billing. No handoff, no team to hide behind. Right now I'm shipping **Stampl**, a loyalty-card platform for local merchants.
+I build SaaS products on my own, end to end — database schema, API, front-end, deployment, billing. No handoff, no team to hide behind. Right now I'm shipping **Tampyo**, a loyalty-card platform for local merchants.
 
 I treat AI as part of the product rather than something to strip out before shipping. Heading toward software architect & engineer.
 
@@ -70,7 +70,7 @@ I treat AI as part of the product rather than something to strip out before ship
 
 ## Projects
 
-**Stampl** — *private, in active development*<br>
+**Tampyo** — *private, in active development*<br>
 Loyalty-card SaaS for local merchants: Apple Wallet & Google Wallet passes, merchant dashboard, cashier scanning app, push updates, GDPR-compliant. Built solo across a Turborepo monorepo.<br>
 <sub>`TypeScript` `Fastify` `Next.js` `PostgreSQL` `Prisma` `Supabase`</sub>
 
